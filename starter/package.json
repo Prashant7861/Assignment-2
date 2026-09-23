@@ -1,0 +1,12 @@
+{
+  "name": "workshop02-nodejs",
+  "version": "1.0.0",
+  "description": "Node.js HTTP server with routing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["nodejs", "http", "routing"],
+  "author": "",
+  "license": "ISC"
+}
